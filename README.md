@@ -9,6 +9,6 @@ It provides an easy way to make the Mac OS dock pop out "instantly".
 
 ## What can I do ?
 
-1. Run `git clone <project>`
-2. At the root of the project, run: `mac-os-dock-autohide-no-delay`
+1. Run `git clone https://github.com/soft4rchitecture/macos-dock-on-pills.git`
+2. At the root of the project, run: `./mac-os-dock-autohide-no-delay.sh`
 3. Your dock should now pop out as quickly as possible :)
